@@ -1,7 +1,7 @@
 ## Página en construcción 👋
 
 <!--
-**JhonAlexanderAnimations/JhonAlexanderAnimations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JhonAlexanderAnimations/jhonalexanderanimations.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
